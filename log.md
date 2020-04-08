@@ -13,3 +13,9 @@
 **Thoughts:** My biggest difficulty when it comes to web development is not understanding the frontend/ui aspect of things, so hopefully improving my knowledge of HTML, CSS and eventually some vanilla javascript should radically improve my ability to build web pages, although I have some knowledge of these technologies, learning them from the beginning in a structured way seems appropriate.
 
 **Resources:** https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML, https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+
+### Day 2: April 8th, 2020
+
+**Today's Progress**: Completed the HTML text fundamentals lesson, and the What is CSS, and How CSS is structured lessons on MDN.
+
+**Thoughts:** Both the HTML and CSS lessons were mostly revision for me, however it was useful to remember things like the variety of different ways to select an element in CSS, which you tend to forget about without frequent mental repetition. Once I've got beyond the introductory lessons on these basic browser technologies I'll be into learning something new and interesting.
