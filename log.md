@@ -19,3 +19,11 @@
 **Today's Progress**: Completed the HTML text fundamentals lesson, and the What is CSS, and How CSS is structured lessons on MDN.
 
 **Thoughts:** Both the HTML and CSS lessons were mostly revision for me, however it was useful to remember things like the variety of different ways to select an element in CSS, which you tend to forget about without frequent mental repetition. Once I've got beyond the introductory lessons on these basic browser technologies I'll be into learning something new and interesting.
+
+### Day 3: April 9th, 2020
+
+**Today's Progress**: Completed the section of the CSS first steps module on MDN 'How CSS is structured', and the part of the HTML docs on links.
+
+**Thoughts:** The CSS lesson included new knowledge for me around functions in CSS and media queries, as well as learning about the cookbooks for CSS on the MDN website for common use cases, which will be extremely useful in the future for website styling. The HTML lesson on links was revision again, but once I finish the basic HTML tutorial, I will be moving on to new material.
+
+**Resources:** https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
