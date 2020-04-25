@@ -27,3 +27,11 @@
 **Thoughts:** The CSS lesson included new knowledge for me around functions in CSS and media queries, as well as learning about the cookbooks for CSS on the MDN website for common use cases, which will be extremely useful in the future for website styling. The HTML lesson on links was revision again, but once I finish the basic HTML tutorial, I will be moving on to new material.
 
 **Resources:** https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
+
+### Day 4: April 25th, 2020
+
+**Today's Progress**: Completed the MDN HTML docs on structuring tables and the first couple of articles on structuring forms.
+
+**Thoughts:** My knowledge of HTML is starting to branch into pretty useful areas. Web forms are an important element of the web allowing users to interact with web pages. I'm also starting to get to the point where knowledge of HTML on it's own isn't particularly useful. Tables and Forms both require CSS to look presentable - the basic rendering of these by browsers is pretty awful. Forms also require Javascript for validation. But I feel like I'm becoming very comfortable with markup now.
+
+There was a pretty large gap between days three and four - I had a week off work which I spent pretty unproductively, and I was experiencing a lot of stress at work when I got back, but I'm recommitting to finishing this journey.
