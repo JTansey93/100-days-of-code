@@ -35,3 +35,9 @@
 **Thoughts:** My knowledge of HTML is starting to branch into pretty useful areas. Web forms are an important element of the web allowing users to interact with web pages. I'm also starting to get to the point where knowledge of HTML on it's own isn't particularly useful. Tables and Forms both require CSS to look presentable - the basic rendering of these by browsers is pretty awful. Forms also require Javascript for validation. But I feel like I'm becoming very comfortable with markup now.
 
 There was a pretty large gap between days three and four - I had a week off work which I spent pretty unproductively, and I was experiencing a lot of stress at work when I got back, but I'm recommitting to finishing this journey.
+
+### Day 5: 1st May, 2020
+
+**Today's Progress**: Completed the MDN HTML docs on the CSS box model, logical properties and handling overflow.
+
+**Thoughts:** CSS is mostly new territory and its interesting to delve more into the kinds of techniques modern web developers use to style pages. The use of logical rather than physical CSS properties (e.g. inline-size instead of width) makes a lot of sense but also seems like it could be confusing to anyone not used to the convention. I feel like understanding the box model does give me a much better base from which to understand a lot of tutorials I've seen in the past where CSS was mentioned but not covered in much depth - margin, border and padding seem like common properties to specifcy for elements.
